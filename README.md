@@ -51,6 +51,6 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 
 <img src = 'https://user-images.githubusercontent.com/103937102/198367543-b87e0cee-4791-432f-ae78-6b1143245b81.png' height = 100></p>
 <img src = 'https://user-images.githubusercontent.com/103937102/198366307-6021ce6b-6c6a-44db-99a8-26b59ee03b96.png' height = 100></p>
-<img src = 'https://user-images.githubusercontent.com/103937102/198214481-cc721b8b-75dc-49a0-8763-86af158242cd.png' height = 100></p>
+<img src = 'https://www.google.com.ar/url?sa=i&url=https%3A%2F%2Fdatascientest.com%2Fes%2Fpower-bi-es&psig=AOvVaw0QWRjwQWDf04GGArd8t7wi&ust=1673015501765000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICIjMfSsPwCFQAAAAAdAAAAABAE' height = 100></p>
 <img src = 'https://user-images.githubusercontent.com/103937102/198214658-cc3f4e0c-4599-4e3b-94f2-f69021d550bb.png' height = 100></p>
 <img src = 'https://i.ibb.co/9t3dD7D/blog-zenvia-imagens-3.png' height=250><p>
