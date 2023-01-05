@@ -12,17 +12,22 @@
 
 <hr>  
 
-## **Introduccion**
+## **Contexto**
+
+La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, casi en cualquier lugar del mundo.
+
+En comparación con la media mundial, Argentina está a la vanguardia del desarrollo de las telecomunicaciones, teniendo para el 2020 un total de 62,12 millones conexiones.
+
+## **Introduccion y Objetivos**
 
 En este proyecto He realizado un estudio general de datos e informacion para una determinada empresa de telecomunicaciones.
 Dicha empresa tiene intensiones en distintas tecnologias para llevar a cabo actualizaciones de equipos o ampleacion de servicio.
-
-## **Objetivos:**
-
 El Objetivo principal en este proyecto es saciar dudas a nuestro cliente con la informacion que hemos obtenido.
 Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domestico, Empresarial, Comercial)
 
-## **Esquema**
+## **KPI'S**
+
++ Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.
 
 <p align=center>
 <img src = 'https://i.postimg.cc/2SwvnTcw/Sin-t-tulo.png' height = 400></p>
