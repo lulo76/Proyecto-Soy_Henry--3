@@ -53,4 +53,4 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 <img src = 'https://user-images.githubusercontent.com/103937102/198366307-6021ce6b-6c6a-44db-99a8-26b59ee03b96.png' height = 100></p>
 <img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1-1024x440.jpg' height = 100></p>
 <img src = 'https://user-images.githubusercontent.com/103937102/198214658-cc3f4e0c-4599-4e3b-94f2-f69021d550bb.png' height = 100></p>
-<img src = 'https://i.ibb.co/9t3dD7D/blog-zenvia-imagens-3.png' height=250><p>
+<img src = 'https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg' height=250><p>
