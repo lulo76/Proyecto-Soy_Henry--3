@@ -35,7 +35,6 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 
 ## **Herramientas utilizadas
 
-+ VSC (Visual Studio Code)
 + Pandas
 + Power BI
 + GitHub
