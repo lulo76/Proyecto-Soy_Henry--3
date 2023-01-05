@@ -8,25 +8,19 @@
 <img src="https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iproup.com/assets/jpg/2019/12/7567.jpg"  height=300>
 </p>
 
- ***Data Engineer***.  
+ ***Data Analyst***.  
 
 <hr>  
 
 ## **Introduccion**
 
-Este es un proyecto individual para confeccionar en 4 dias, iniciando  desde cero su proceso de ETL (Extraccion, Trasnformacion
-y Carga) de datos.  Estos corresponden a la `carta de titulos` de algunas plataformas de streaming importantes.
-Concluyendo el trabajo en la elaboración y ejecución de una API.
+En este proyecto He realizado un estudio general de datos e informacion para una determinada empresa de telecomunicaciones.
+Dicha empresa tiene intensiones en distintas tecnologias para llevar a cabo actualizaciones de equipos o ampleacion de servicio.
 
 ## **Objetivos:**
 
-+ Cargar los Data Frame.
-+ Realizar el proceso de ETL necesario.
-+ Concatenar las tablas en un solo DF.
-+ Exportarlos a una Base de Datos de SQL.
-+ Obtener la informacion requerida por medio de QUERY'S
-+ Crear la API en un entorno Docker → leer documentación en links provistos
-+ Realizar consultas solicitadas 
+El Objetivo principal en este proyecto es saciar dudas a nuestro cliente con la informacion que hemos obtenido.
+Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domestico, Empresarial, Comercial)
 
 ## **Esquema**
 
@@ -51,11 +45,8 @@ Concluyendo el trabajo en la elaboración y ejecución de una API.
 ## **Herramientas utilizadas
 
 + VSC (Visual Studio Code)
-+ Python
 + Pandas
-+ MySQL
-+ FastAPI
-+ Docker
++ Power BI
 + GitHub
 
 <img src = 'https://user-images.githubusercontent.com/103937102/198367543-b87e0cee-4791-432f-ae78-6b1143245b81.png' height = 100></p>
