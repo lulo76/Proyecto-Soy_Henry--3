@@ -32,7 +32,7 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 + Detectar los cambios tecnologicos en las redes de internet.
 + 
 <p align=center>
-<img src = 'https://atrahunt.com/wp-content/uploads/2020/07/Portada-que-es-un-KPI.png' height = 400></p>
+<img src = 'https://atrahunt.com/wp-content/uploads/2020/07/Portada-que-es-un-KPI.png' height = 200></p>
 
 
 ## **Herramientas utilizadas
