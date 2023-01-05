@@ -5,7 +5,7 @@
 # <h1 align=center>**`Data Analyst`**</h1>
 
 <p align="center">
-<img src="[https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg](https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iproup.com/assets/jpg/2019/12/7567.jpg)"  height=300>
+<img src="https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iproup.com/assets/jpg/2019/12/7567.jpg"  height=300>
 </p>
 
  ***Data Engineer***.  
