@@ -28,7 +28,9 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 ## **KPI'S**
 
 + Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.
-
++ Evaluar la evolucion de las comunicaiones por telefonia movil.
++ Detectar los cambios tecnologicos en las redes de internet.
++ 
 <p align=center>
 <img src = 'https://i.postimg.cc/2SwvnTcw/Sin-t-tulo.png' height = 400></p>
 
@@ -40,7 +42,6 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 + GitHub
 
 <img src = 'https://user-images.githubusercontent.com/103937102/198367543-b87e0cee-4791-432f-ae78-6b1143245b81.png' height = 100></p>
-<img src = 'https://user-images.githubusercontent.com/103937102/198366307-6021ce6b-6c6a-44db-99a8-26b59ee03b96.png' height = 100></p>
 <img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1-1024x440.jpg' height = 100></p>
 <img src = 'https://user-images.githubusercontent.com/103937102/198214658-cc3f4e0c-4599-4e3b-94f2-f69021d550bb.png' height = 100></p>
 <img src = 'https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg' height=250><p>
