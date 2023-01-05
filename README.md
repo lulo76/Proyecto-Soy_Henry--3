@@ -30,7 +30,8 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 + Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.
 + Evaluar la evolucion de las comunicaiones por telefonia movil.
 + Detectar los cambios tecnologicos en las redes de internet.
-+ 
+
+
 <p align=center>
 <img src = 'https://atrahunt.com/wp-content/uploads/2020/07/Portada-que-es-un-KPI.png' height = 200></p>
 
