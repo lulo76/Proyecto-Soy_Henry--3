@@ -36,7 +36,7 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 <img src = 'https://atrahunt.com/wp-content/uploads/2020/07/Portada-que-es-un-KPI.png' height = 200></p>
 
 
-## **Herramientas utilizadas
+## **Herramientas utilizadas**
 
 + Pandas
 + Power BI
