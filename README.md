@@ -27,20 +27,6 @@ Observaremos distintas mediciones en redes moviles o uso de internet fijo (Domes
 <p align=center>
 <img src = 'https://i.postimg.cc/2SwvnTcw/Sin-t-tulo.png' height = 400></p>
 
-## **Consultas a realizar**
-
-+ Máxima duración según tipo de film (película/serie), por plataforma y por año:
-    El request debe ser: get_max_duration(año, plataforma, [min o season])
-
-+ Cantidad de películas y series (separado) por plataforma
-    El request debe ser: get_count_plataform(plataforma)  
-  
-+ Cantidad de veces que se repite un género y plataforma con mayor frecuencia del mismo.
-    El request debe ser: get_listedin('genero')  
-    Como ejemplo de género pueden usar 'comedy', el cuál deberia devolverles un cunt de 2099 para la plataforma de amazon.
-
-+ Actor que más se repite según plataforma y año.
-  El request debe ser: get_actor(plataforma, año)
 
 ## **Herramientas utilizadas
 
